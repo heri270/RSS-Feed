@@ -1,0 +1,19 @@
+* {
+	margin: auto;
+	/*background-color: lightgreen;*/
+}
+
+h1 {
+	padding: 10px;
+}
+
+li {
+	list-style-type: none;
+	line-height: 1;
+    padding: 20px 5px;
+    /*border: black solid 1px;*/
+}
+
+a {
+	text-decoration: none;
+}
