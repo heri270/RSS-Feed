@@ -1,6 +1,6 @@
 <?php
 
-$color = red;
+$color = "red";
 
 $rss = new DOMDocument();
 $feed = array();
@@ -29,7 +29,7 @@ usort($feed, function($a, $b) {
 ?>
 
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
    <head>
       <link rel="stylesheet" type="text/css" href="styles.css">
@@ -61,4 +61,4 @@ usort($feed, function($a, $b) {
          ?>
       </div>
    </body>
-</html>
+</html> -->
